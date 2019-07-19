@@ -1,2 +1,2 @@
 # rcc-java
-java code for RCC
+Java basic robot code for RCC
